@@ -1,6 +1,9 @@
 _repo: Miss-Fairfax-of-Virginia-A-Romance-of-Love-and-Adventure-Under-the-Palmettos_52599
-_version: 0.1.0
+_version: 0.2.0
 alternative_title: Miss Fairfax of Va.
+covers:
+- cover_type: archival
+  image_path: 52599-h/images/cover.jpg
 creator:
   author:
     agent_name: Rathborne, St. George
@@ -17,6 +20,8 @@ creator:
     - http://www.gutenberg.org/ebooks/author/4161
     - http://www.gutenberg.org/ebooks/author/2624
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/52599#Miss-Fairfax-of-Virginia-A-Romance-of-Love-and-Adventure-Under-the-Palmettos
 gutenberg_issued: '2016-07-18'
 gutenberg_type: Text
 identifiers:
