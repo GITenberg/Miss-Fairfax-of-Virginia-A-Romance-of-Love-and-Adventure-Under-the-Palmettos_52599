@@ -1,0 +1,35 @@
+_repo: Miss-Fairfax-of-Virginia-A-Romance-of-Love-and-Adventure-Under-the-Palmettos_52599
+_version: 0.0.1
+alternative_title: Miss Fairfax of Va.
+creator:
+  author:
+    agent_name: Rathborne, St. George
+    aliases:
+    - Old Broadbrim
+    - Adams, Harrison
+    birthdate: 1854
+    deathdate: 1938
+    gutenberg_agent_id: '1599'
+    url: http://www.gutenberg.org/2009/agents/1599
+    wikipedia:
+    - http://www.gutenberg.org/ebooks/author/45240
+    - http://en.wikipedia.org/wiki/St._George_Rathborne
+    - http://www.gutenberg.org/ebooks/author/4161
+    - http://www.gutenberg.org/ebooks/author/2624
+description: ''
+gutenberg_issued: '2016-07-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52599'
+  lccn: '99004685'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Virginia -- Fiction'
+- !lcsh 'Love stories'
+- !lcc 'PS'
+- GITenberg
+title: 'Miss Fairfax of Virginia: A Romance of Love and Adventure Under the Palmettos'
+url: http://www.gutenberg.org/ebooks/52599
